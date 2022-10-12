@@ -10,3 +10,4 @@ My to do list
 - [ ] Monitor Accounts
 - [ ] Report Catch up
 - [ ] Relax
+- [x] Be cool
